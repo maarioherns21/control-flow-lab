@@ -13,7 +13,7 @@ while letter != "quit":
     # 3. Print one of following messages (substituting the letter for x):
     #      - The letter x is a vowel
     elif letter == "x":
-        print(f"the letter {letter} is a consanant as well")
+        print(f"the letter {letter} is a consonant")
     #      - The letter x is a consonant
     else:
         print("is not a vowel!")
